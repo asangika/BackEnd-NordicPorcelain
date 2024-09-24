@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin/Release/net8.0/publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/311abaa2-77c0-4b15-8d13-48f6c5302c92/resourceGroups/MyGroup/providers/Microsoft.Web/sites/NordicPorcelain"
+}
