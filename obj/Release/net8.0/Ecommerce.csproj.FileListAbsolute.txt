@@ -1,0 +1,7 @@
+/Users/asangikasandamini/Documents/Integrify/BackEnd/fs18_CSharp_FullStack_Backend/obj/Release/net8.0/Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asangikasandamini/Documents/Integrify/BackEnd/fs18_CSharp_FullStack_Backend/obj/Release/net8.0/Ecommerce.AssemblyInfoInputs.cache
+/Users/asangikasandamini/Documents/Integrify/BackEnd/fs18_CSharp_FullStack_Backend/obj/Release/net8.0/Ecommerce.AssemblyInfo.cs
+/Users/asangikasandamini/Documents/Integrify/BackEnd/fs18_CSharp_FullStack_Backend/obj/Release/net8.0/Ecommerce.csproj.CoreCompileInputs.cache
+/Users/asangikasandamini/Documents/Integrify/BackEnd/fs18_CSharp_FullStack_Backend/obj/Release/net8.0/Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+/Users/asangikasandamini/Documents/Integrify/BackEnd/fs18_CSharp_FullStack_Backend/obj/Release/net8.0/Ecommerce.sourcelink.json
+/Users/asangikasandamini/Documents/Integrify/BackEnd/fs18_CSharp_FullStack_Backend/obj/Release/net8.0/Ecommerce.csproj.AssemblyReference.cache
